@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Simon Says</string>
+    <string name="up">Haut</string>
+    <string name="down">Bas</string>
+    <string name="left">Gauche</string>
+    <string name="right">Droite</string>
+    <string name="sec">0</string>
+    <string name="normal">Normal</string>
+    <string name="hard">Difficile</string>
+    <string name="difficulty">Difficulté ?</string>
+    <string name="description">3 secondes</string>
+    <string name="classement">Classement</string>
+    <string name="share">Partager</string>
+    <string name="pseudo">Pseudo :</string>
+    <string name="score">Score :</string>
+    <string name="difficult">Difficulté :</string>
+    <string name="best">Meilleur Score</string>
+    <string name="play">Jouer</string>
+    <string name="pseudo_enter">Entrez votre pseudo</string>
+    <string name="timer">Timer :</string>
+    <string name="empty_pseudo">Pseudo vide</string>
+
+
+
+</resources>
