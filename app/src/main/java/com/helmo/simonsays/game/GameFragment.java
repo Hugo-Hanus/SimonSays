@@ -145,6 +145,7 @@ public class GameFragment extends BaseFragment implements SensorEventListener,Ga
     public void onDestroy() {
         sensorManager.unregisterListener(this);
         gamePresenter.stopGame();
+        toneGenerator.stopTone();
         super.onDestroy();
         Log.d(TAG,"onDestroy");
 
