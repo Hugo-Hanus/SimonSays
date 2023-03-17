@@ -226,6 +226,7 @@ public class GameFragment extends BaseFragment implements SensorEventListener,Ga
 
     @Override
     public void endGame(int score, String difficulty) {
+        onDestroy();
         navigationPresenter.addFragment(new ResultGameFragment(score,difficulty));
     }
 

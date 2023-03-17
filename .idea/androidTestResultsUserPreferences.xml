@@ -48,6 +48,8 @@
               <option name="preferredColumnWidths">
                 <map>
                   <entry key="Duration" value="90" />
+                  <entry key="Nothing&#10; A063" value="120" />
+                  <entry key="P21269001906" value="120" />
                   <entry key="Pixel_4_XL_API_24" value="120" />
                   <entry key="Tests" value="360" />
                 </map>
