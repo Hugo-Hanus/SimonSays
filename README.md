@@ -9,5 +9,4 @@ Base de Donnée:
 Room (local)
 
 Technologie utilisée:
-Fragment
-Gyroscope
+Fragment | Gyroscope
