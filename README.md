@@ -2,6 +2,8 @@
 
 Projet en Java visant à créer un jeu SimonSays.
 
+Version minium d'Android : 7.0
+
 Pattern:
 Model - View - Presenter
 
